@@ -14,6 +14,7 @@
 // @grant        GM_xmlhttpRequest
 // @license      MIT
 // ==/UserScript==
+
 ! function(t) {
 	var e = {};
 
